@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sundeep1310
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning python and ai
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and java along with dsa
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me @sundeeprebbapragada@gmail.com
 
 <!---
